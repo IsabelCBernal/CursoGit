@@ -5,7 +5,10 @@
   border: 1px solid rgb(179, 179, 179);
   border-radius: 10px;
   font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+  color: white;
 }
 h1 {
   text-align: center;
+  color: blueviolet;
 }
